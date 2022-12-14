@@ -15,6 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 This is an interesting challenge to start with - sipmle enough for my level, but not trivial. I didn't have to learn anything new from scratch, but I did have to sharpen my existing skills in HTML and CSS and be a lot more aware of my code decisions than I was used to. Itws a simle card with an image and a text, but I learned so much just by doing an actual project, for example - how to use Git and Github.
+
 ### Screenshot
 
 ![](/images/screenshot.png)
