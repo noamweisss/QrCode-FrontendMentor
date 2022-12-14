@@ -18,7 +18,7 @@ This is an interesting challenge to start with - sipmle enough for my level, but
 
 ### Screenshot
 
-![](/images/screenshot.png)
+![](/screenshot.png)
 
 
 ### Links
